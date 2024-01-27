@@ -1050,7 +1050,7 @@ The challenge level is independent from the standard difficulty slider in the ha
 	<loadEvent>START_BEACON_EXPLAIN</loadEvent>
 </event>
 <event name="START_BEACON_EXPLAIN">
-	<text>Finally suited up and ready to go, you take a look at your beacon map. Looks like you still have a while until the fleet becomes an immediate threat, so you can spare some time to do something on the ship if you wish.</text>
+	<text>Finally ready for the first jump of this new journey, you take a look at your beacon map. Looks like you still have a while until the fleet becomes an immediate threat, so you can spare some time to do something on the ship if you wish.</text>
 	<choice hidden="true" req="prof_beacon_active" blue="true">
 		<text>A strange beacon lays nearby. Do you want to activate it?</text>
 		<event>
