@@ -1,0 +1,10 @@
+﻿<!--
+--------- Background for exterior of sector 1 start
+-->
+<imageList name="BACK_SECTOR_START_EXTERIOR">
+	<img w="1280" h="720">stars/bghub_19.png</img>
+</imageList>
+
+<imageList name="BACK_SECTOR_START_EXTERIOR_PLANET">
+	<img w="1024" h="1024">stars/planet_rings_1.png</img>
+</imageList>
