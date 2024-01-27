@@ -2,10 +2,11 @@
   <title><![CDATA[ FTL: MULTIVERSE SUBMOD - BETTER LOOKING START ]]></title>
   <threadUrl><![CDATA[https://ftlmultiverse.boards.net/thread/56/looking-start]]></threadUrl>
   <author><![CDATA[ ThornEel]]></author>
-  <version><![CDATA[ 1.0 ]]></version>
+  <version><![CDATA[ 1.1 ]]></version>
   <description>
 <![CDATA[ 
 A simple FTL: Multiverse submod changing the starting hangar background so it is aligned with the ship, and having the background change to space for the first jump
+Compatible with FTL: Multiverse 5.4.1
 ]]>
   </description>
 </metadata>
